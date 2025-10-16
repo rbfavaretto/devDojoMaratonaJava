@@ -1,8 +1,8 @@
-package academy.devdojo.maratonajava.javacore.Aintroducaoclasses.teste;
+package academy.devdojo.maratonajava.javacore.Aintroducaoclasses.test;
 
-import academy.devdojo.maratonajava.javacore.Aintroducaoclasses.dominio.Professor;
+import academy.devdojo.maratonajava.javacore.Aintroducaoclasses.domain.Professor;
 
-public class ProfessorTeste01 {
+public class ProfessorTest {
     public static void main(String[] args) {
         Professor professor = new Professor();
         professor.nome = "Joao";

@@ -1,8 +1,8 @@
-package academy.devdojo.maratonajava.javacore.Aintroducaoclasses.teste;
+package academy.devdojo.maratonajava.javacore.Aintroducaoclasses.test;
 
-import academy.devdojo.maratonajava.javacore.Aintroducaoclasses.dominio.Carro;
+import academy.devdojo.maratonajava.javacore.Aintroducaoclasses.domain.Carro;
 
-public class Carros {
+public class CarroTest {
     public static void main(String[] args) {
         Carro toyota = new Carro();
         Carro chevrolet = new Carro();

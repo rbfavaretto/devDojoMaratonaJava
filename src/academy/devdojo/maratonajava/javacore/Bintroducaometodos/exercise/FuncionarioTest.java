@@ -1,6 +1,6 @@
-package academy.devdojo.maratonajava.javacore.Bintroducaometodos.exercicio;
+package academy.devdojo.maratonajava.javacore.Bintroducaometodos.exercise;
 
-public class FuncionarioTeste {
+public class FuncionarioTest {
     public static void main(String[] args) {
         Funcionario funcionario = new Funcionario();
 

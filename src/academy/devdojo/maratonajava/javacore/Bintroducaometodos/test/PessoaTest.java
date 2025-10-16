@@ -1,8 +1,8 @@
-package academy.devdojo.maratonajava.javacore.Bintroducaometodos.teste;
+package academy.devdojo.maratonajava.javacore.Bintroducaometodos.test;
 
-import academy.devdojo.maratonajava.javacore.Bintroducaometodos.dominio.Pessoa;
+import academy.devdojo.maratonajava.javacore.Bintroducaometodos.domain.Pessoa;
 
-public class PessoaTest01 {
+public class PessoaTest {
     public static void main(String[] args) {
         Pessoa pessoa  = new Pessoa();
         pessoa.setNome("Jiraya");

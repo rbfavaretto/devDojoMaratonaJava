@@ -1,8 +1,8 @@
-package academy.devdojo.maratonajava.javacore.Bintroducaometodos.teste;
+package academy.devdojo.maratonajava.javacore.Bintroducaometodos.test;
 
-import academy.devdojo.maratonajava.javacore.Bintroducaometodos.dominio.Calculadora;
+import academy.devdojo.maratonajava.javacore.Bintroducaometodos.domain.Calculadora;
 
-public class CalculadoraTeste {
+public class CalculadoraTest {
     public static void main(String[] args) {
         Calculadora calculadora = new Calculadora();
         calculadora.subtraiDoisNumeros();

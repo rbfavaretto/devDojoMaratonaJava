@@ -1,6 +1,4 @@
-package academy.devdojo.maratonajava.javacore.Bintroducaometodos.exercicio;
-
-import java.util.Arrays;
+package academy.devdojo.maratonajava.javacore.Bintroducaometodos.exercise;
 
 public class Impressora {
     public void imprime(Funcionario funcionario) {

@@ -1,8 +1,8 @@
-package academy.devdojo.maratonajava.javacore.Aintroducaoclasses.teste;
+package academy.devdojo.maratonajava.javacore.Aintroducaoclasses.test;
 
-import academy.devdojo.maratonajava.javacore.Aintroducaoclasses.dominio.Estudante;
+import academy.devdojo.maratonajava.javacore.Aintroducaoclasses.domain.Estudante;
 
-public class EstudanteTeste01 {
+public class EstudanteTest {
     public static void main(String[] args) {
         Estudante estudante = new Estudante();
         estudante.nome = "Luffy";
